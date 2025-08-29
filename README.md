@@ -39,4 +39,5 @@ Soy **Desarrollador Backend / Full-Stack**, con experiencia en el desarrollo, ma
 ---
 
 ### 🏆 Trofeos  
-![trophy](https://github-profile-trophy.vercel.app/?username=infosergio2021&theme=onedark)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=infosergio2021&theme=onedark&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
