@@ -6,8 +6,8 @@
 
 <div align="left">
 
-Soy **Desarrollador Backend / Full-Stack**, con experiencia en el desarrollo, mantenimiento e integración de funcionalidades en sistemas **POS** y entornos empresariales.  
-Me apasiona crear soluciones escalables, optimizar software y trabajar en equipos que valoren la calidad y la mejora continua.  
+Soy Desarrollador Backend / Full-Stack, con sólida experiencia en el diseño, desarrollo y mantenimiento de aplicaciones empresariales. He trabajado en la integración y mejora de funcionalidades en sistemas POS, optimizando procesos y garantizando la calidad del software.
+Me apasiona crear soluciones escalables y eficientes, así como colaborar en equipos multidisciplinarios orientados a la excelencia y la mejora continua.
 
 </div>
 
