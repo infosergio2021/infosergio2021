@@ -1,12 +1,12 @@
 # 👋 Hola! Soy Sergio Aguilar  
 
-<p align="left">
-  <img src="./assets/dev_raccon.gif" width="150" alt="GIF animado" style="margin-right: 20px;" align="left"/>
+<p align="right">
+  <img src="./assets/dev_raccon.gif" width="150" alt="GIF animado" style="margin-left: 20px;" align="right"/>
   Soy **Desarrollador Backend / Full-Stack**, con experiencia en el desarrollo, mantenimiento e integración de funcionalidades en sistemas **POS** y entornos empresariales.  
   Me apasiona crear soluciones escalables, optimizar software y trabajar en equipos que valoren la calidad y la mejora continua.  
 </p>
 
-<br clear="left"/>
+<br clear="right"/>
 
 ---
 
