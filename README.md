@@ -29,7 +29,8 @@ Me apasiona crear soluciones escalables y eficientes, así como colaborar en equ
 
 ### 📫 Contacto  
 - ✉️ Email: **infosergio2020@gmail.com**  
-- 💼 LinkedIn: [https://www.linkedin.com/in/sergioaguilarsoria/]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergioaguilarsoria/)
+
 
 ---
 
